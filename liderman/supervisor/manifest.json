@@ -6,8 +6,8 @@
       "name": "Hawks Supervisor",
       "package": "com.hawkstec.app_sup.demo",
       "version": {
-        "code": 101010,
-        "name": "1.1.10"
+        "code": 101011,
+        "name": "1.1.11"
       }
     }
   }

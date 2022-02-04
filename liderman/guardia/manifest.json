@@ -3,11 +3,11 @@
     "size": 511771000,
     "compressedSize": 1327288,
     "app": {
-      "name": "Hawks Guard",
+      "name": "Liderman Agente"
       "package": "com.hawkstec.app.demo",
       "version": {
-        "code": 10004,
-        "name": "1.0.4"
+        "code": 10003,
+        "name": "1.0.3"
       }
     }
   }

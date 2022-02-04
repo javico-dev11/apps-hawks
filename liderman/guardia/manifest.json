@@ -3,7 +3,7 @@
     "size": 511771000,
     "compressedSize": 1327288,
     "app": {
-      "name": "Liderman Agente"
+      "name": "Liderman Agente",
       "package": "com.hawkstec.app.demo",
       "version": {
         "code": 10003,

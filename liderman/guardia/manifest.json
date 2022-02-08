@@ -6,8 +6,8 @@
       "name": "Liderman Agente",
       "package": "com.hawkstec.app.demo",
       "version": {
-        "code": 100010,
-        "name": "1.0.10"
+        "code": 10101,
+        "name": "1.1.1"
       }
     }
   }

@@ -1,0 +1,13 @@
+{
+    "name": "update.apk",
+    "size": 511771,
+    "compressedSize": 1327288,
+    "app": {
+      "name": "Maximseg Supervisor",
+      "package": "com.hawkstec.app_sup.demo",
+      "version": {
+        "code": 10001,
+        "name": "1.0.1"
+      }
+    }
+  }
